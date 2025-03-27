@@ -1,0 +1,38 @@
+{
+    "rice": [
+      {
+        "name": "Leaf Blight",
+        "symptoms": "Linear lesions with gray centers and brown margins",
+        "management": "Use resistant varieties, apply copper-based fungicides"
+      },
+      {
+        "name": "Rice Blast",
+        "symptoms": "Diamond-shaped lesions with white to gray centers",
+        "management": "Apply tricyclazole, maintain proper flooding"
+      }
+    ],
+    "wheat": [
+      {
+        "name": "Leaf Rust",
+        "symptoms": "Orange-brown pustules on leaf surface",
+        "management": "Use resistant cultivars, apply triazole fungicides"
+      },
+      {
+        "name": "Powdery Mildew",
+        "symptoms": "White powdery growth on leaves",
+        "management": "Improve air circulation, apply sulfur dust"
+      }
+    ],
+    "cotton": [
+      {
+        "name": "Boll Rot",
+        "symptoms": "Water-soaked lesions on bolls turning black",
+        "management": "Remove infected bolls, apply carbendazim"
+      },
+      {
+        "name": "Leaf Curl Virus",
+        "symptoms": "Upward curling leaves with thickened veins",
+        "management": "Control whiteflies, use neonicotinoid insecticides"
+      }
+    ]
+  }
