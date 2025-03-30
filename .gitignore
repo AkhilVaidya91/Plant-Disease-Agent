@@ -6,7 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+## Datasets
 *dataset/
+*.zip
 
 # Distribution / packaging
 .Python
