@@ -8,6 +8,8 @@ __pycache__/
 
 ## Datasets
 *dataset/
+*saved_models/
+*visualizations/
 *.zip
 
 # Distribution / packaging
